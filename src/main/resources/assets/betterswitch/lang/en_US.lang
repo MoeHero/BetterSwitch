@@ -1,0 +1,8 @@
+tile.switch_iron.name=Iron Switch
+tile.switch_gold.name=Gold Switch
+tile.switch_diamond.name=Diamond Switch
+tile.switch_emerald.name=Emerald Switch
+
+waila.state.text=State : 
+waila.state.on.text=On
+waila.state.off.text=Off

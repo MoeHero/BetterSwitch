@@ -1,0 +1,29 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "texture": "betterswitch:switch_diamond"
+    },
+    "model": "betterswitch:switch_off"
+  },
+  "variants": {
+    "inventory": [{
+      "model": "betterswitch:switch_inventory",
+      "textures": { "texture": "betterswitch:switch_diamond" }
+    }],
+    "powered": {
+      "true": { "model": "betterswitch:switch_on" },
+      "false": {}
+    },
+    "facing": {
+      "up_z": {},
+      "up_x": { "y": 90 },
+      "down_z": { "x": 180 },
+      "down_x": { "x": 180, "y": 90 },
+      "east": { "x": 270, "y": 270 },
+      "west": { "x": 270, "y": 90 },
+      "north": { "x": 270, "y": 180 },
+      "south": { "x": 270 }
+    }
+  }
+}

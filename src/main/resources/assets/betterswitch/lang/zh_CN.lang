@@ -1,0 +1,8 @@
+tile.switch_iron.name=铁开关
+tile.switch_gold.name=金开关
+tile.switch_diamond.name=钻石开关
+tile.switch_emerald.name=绿宝石开关
+
+waila.state.text=状态 : 
+waila.state.on.text=开启
+waila.state.off.text=关闭

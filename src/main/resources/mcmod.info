@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "betterswitch",
+    "name": "Better Switch",
+    "description": "Switches for MC1.10.2",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "updateUrl": "",
+    "authorList": ["MoeHero"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
